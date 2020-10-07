@@ -1,2 +1,5 @@
-print("Hello World")
-print("non mais pas la hooo !")
+print("Hello world")
+
+print(error)
+
+
