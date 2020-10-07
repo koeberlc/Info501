@@ -1,5 +1,5 @@
 print("Hello world")
 
-print(error)
+print("not error")
 
 
