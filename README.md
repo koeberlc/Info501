@@ -6,7 +6,7 @@ Projet531 TD
 Pour valider le changement on effectue un commit que l'on peut vérifier dans l'onglet 'Code' ou on peut voir le nombre de commit
 
 5.
-Non la modif n'apparait pas sur l'original car c'est seulement une copie
+Non la modification ne se fait pas sur le dépot initial : c'est une copie de l'originale mais elles ne sont pas liées entre elles.
 
 6.
 Le fichier README.md
